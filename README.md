@@ -1,14 +1,9 @@
-<h1 align="center">Olá 👋, eu sou a Beatriz Moraes Franco</h1>
-<h3 align="center">DevOps Engineer | Cloud | Kubernetes | CI/CD</h3>
-
 <p align="center">
-MBA | DevOps | AWS | GCP | Kubernetes | Docker | Terraform | GitOps | FinOps
-</p>
 
----
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=38&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=900&lines=Olá+👋,+eu+sou+Beatriz+Moraes+Franco" />
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=6C63FF&center=true&vCenter=true&lines=DevOps+Engineer;Engenharia+Cloud;Especialista+em+Kubernetes;Automação+CI/CD;Infrastructure+as+Code">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=9D8CFF&center=true&vCenter=true&width=900&lines=DevOps+Engineer;Cloud+Engineer;Especialista+em+Kubernetes;Automação+CI/CD;Infrastructure+as+Code" />
+
 </p>
 
 ---
@@ -37,6 +32,22 @@ MBA | DevOps | AWS | GCP | Kubernetes | Docker | Terraform | GitOps | FinOps
 <p align="center">
 
 <img src="https://skillicons.dev/icons?i=aws,gcp,kubernetes,docker,terraform,git,jenkins,linux,github,helm" />
+
+</p>
+
+---
+
+# 🏅 Certificações
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/FinOps-Certified%20Practitioner-00A86B?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/GitLab-Certified%20Associate-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Huawei-HCIA%20Cloud%20Service-red?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Gremlin-Chaos%20Engineering%20Practitioner-black?style=for-the-badge" />
 
 </p>
 
@@ -75,16 +86,6 @@ Pipeline DevOps utilizando **Terraform, Jenkins e Kubernetes (EKS)** seguindo pr
 <p align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=bmfranco&theme=tokyonight">
-
-</p>
-
----
-
-# 🐍 Contribuições
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/bmfranco/bmfranco/output/github-contribution-grid-snake.svg">
 
 </p>
 
